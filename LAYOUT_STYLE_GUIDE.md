@@ -1,4 +1,4 @@
-# Layout style guide
+# Layout style guide- ADDING NEW CHANGES HERE
 
 Inspired by [Google's styleguide](https://github.com/google/styleguide/blob/gh-pages/docguide/style.md)
 
